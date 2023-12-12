@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-11-30T06:14:39.737856400Z</date>
+  <millis>1701324879737</millis>
+  <nanos>856400</nanos>
+  <sequence>2</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.automation.MakeMyTripAutomation</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Popup is cancelled.</message>
+</record>
+<record>
+  <date>2023-11-30T06:14:41.747381200Z</date>
+  <millis>1701324881747</millis>
+  <nanos>381200</nanos>
+  <sequence>3</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.automation.MakeMyTripAutomation</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Typed and selected the start city DELHI from Dropdown.</message>
+</record>
+<record>
+  <date>2023-11-30T06:14:47.402633300Z</date>
+  <millis>1701324887402</millis>
+  <nanos>633300</nanos>
+  <sequence>4</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.automation.MakeMyTripAutomation</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Typed and selected the destination city LUCKNOW from Dropdown.</message>
+</record>
+<record>
+  <date>2023-11-30T06:14:52.480534800Z</date>
+  <millis>1701324892480</millis>
+  <nanos>534800</nanos>
+  <sequence>5</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.automation.MakeMyTripAutomation</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Picked the travelling Date from date picker.</message>
+</record>
+<record>
+  <date>2023-11-30T06:14:57.263284200Z</date>
+  <millis>1701324897263</millis>
+  <nanos>284200</nanos>
+  <sequence>6</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.automation.MakeMyTripAutomation</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Picked the class of journey from dropdown.</message>
+</record>
+<record>
+  <date>2023-11-30T06:15:10.106050600Z</date>
+  <millis>1701324910106</millis>
+  <nanos>50600</nanos>
+  <sequence>7</sequence>
+  <logger>MyLog</logger>
+  <level>INFO</level>
+  <class>com.automation.MakeMyTripAutomation</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Clicked the search button after entering all the details.</message>
+</record>
+</log>
